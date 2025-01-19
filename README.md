@@ -1,68 +1,46 @@
-🎯 Project Objectives
+🎯 Project Goals
+The primary goal of this project is to leverage advanced machine learning (ML) and structure-from-motion (SFM) techniques to estimate vehicle speeds accurately from various types of imagery. This work aims to provide valuable tools and methodologies applicable to fields like traffic monitoring, autonomous vehicle systems, and improving road safety.
 
-This project aims to utilize advanced ML and SFM approaches to accurately estimate vehicle speeds from various forms of imagery. By doing so, we hope to contribute valuable tools and methods that can be applied in domains such as traffic monitoring, autonomous driving systems, and road safety enhancements.
+📸 Dataset
+This repository does not include a publicly available dataset. Instead, the methods are designed for use with custom datasets. If you possess specific imagery or are interested in applying these techniques, we encourage you to get in touch for collaboration opportunities.
 
-## 📸 Dataset
+📋 System Requirements
+To execute the code in this repository, ensure the following prerequisites are met:
 
-Currently, we do not provide a public dataset alongside this repository; the methods are tailored for use with custom datasets. If you have specific imagery or are interested in applying these techniques, please reach out for collaboration.
+Python 3.7+: Install Python and set up the required libraries using pip:
 
-# 📋 Requirements
+bash
+Kopyala
+Düzenle
+pip3 install -U -r requirements.txt
+Key Python packages listed in requirements.txt include:
 
-To run the code in this repository, you will need the following:
+numpy
+scipy
+torch (PyTorch)
+opencv-python (OpenCV)
+exifread
+bokeh (optional, for visualizations)
+Additionally, if using MATLAB, include this line in your code:
 
-- **Python 3.7+**: Install Python and use pip to set up the necessary libraries:
+matlab
+Kopyala
+Düzenle
+addpath(genpath('/functions-matlab'))
+The following MATLAB toolboxes are required:
 
-  ```
-  pip3 install -U -r requirements.txt
-  ```
+Statistics and Machine Learning Toolbox
+Signal Processing Toolbox
+🏃 Execution
+This repository includes multiple techniques for estimating vehicle speeds. For guidance on using these methods or further information, feel free to contact us.
 
-  The `requirements.txt` file includes key Python packages such as:
+📚 Acknowledgment
+If this work contributes to your research or projects, please consider citing it using the provided DOI.
 
-  - `numpy`
-  - `scipy`
-  - `torch` (PyTorch)
-  - `opencv-python` (OpenCV)
-  - `exifread`
-  - `bokeh` (optional, for visualization)
+🤝 Contributions
+We warmly welcome community contributions! Whether it’s fixing bugs, adding new features, or enhancing documentation, your input is highly appreciated. Refer to our [Contributing Guide] to get started. We’d also love to hear about your experiences with DetectedAI products. Consider filling out our [Survey]. A big thank you 🙌 to all contributors!
 
-  ```
+📬 Get in Touch
+For bug reports, feature suggestions, and collaborations, or to discuss this project and other DetectedAI initiatives, connect with us on X!
 
-  ```
-
-  
-  ```
-  >> addpath(genpath('/functions-matlab'))
-  ```
-
-  Ensure you have the following MATLAB toolboxes installed:
-
-  - `Statistics and Machine Learning Toolbox`
-  - `Signal Processing Toolbox`
-
-# 🏃 Run
-
-The repository contains various methods for vehicle speed estimation. If you're interested in leveraging these techniques or require more information on running the code, please feel free to reach out.
-
-
-
-# 📚 Citation
-
-If our work assists you in your research or project, please consider citing it using the following DOI:
-
-
-
-# 🤝 Contribute
-
-We welcome contributions from the community! Whether you're fixing bugs, adding new features, or improving documentation, your input is invaluable. Take a look at our [Contributing Guide] to get started. Also, we'd love to hear about your experience with Detected-ai products. Please consider filling out our [Survey]. A huge 🙏 and thank you to all of our contributors!
-
-
-
-
-
-# 📬 Contact Us
-
-For bug reports, feature requests, and contributions,  For questions and discussions about this project and other DetectedAi endeavors, join us on [X](https://x.com/DetectedAI)!
-
-![image](https://github.com/user-attachments/assets/843be965-80c1-4053-ac64-5b5a37ea037f)
-
-
+![image](https://github.com/user-attachments/assets/fe1ad92e-cd61-469e-aed5-0dc2845cf68a)
