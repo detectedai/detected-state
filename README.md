@@ -1,4 +1,4 @@
-# 🎯 Project Goals
+![Adsız](https://github.com/user-attachments/assets/c8a7bd27-2b96-4bba-8e22-53f916390b4c)# 🎯 Project Goals
 The primary goal of this project is to leverage advanced machine learning (ML) and structure-from-motion (SFM) techniques to estimate vehicle speeds accurately from various types of imagery. This work aims to provide valuable tools and methodologies applicable to fields like traffic monitoring, autonomous vehicle systems, and improving road safety.
 
 # 📸 Dataset
@@ -37,4 +37,5 @@ If this work contributes to your research or projects, please consider citing it
 📬 Get in Touch
 For bug reports, feature suggestions, and collaborations, or to discuss this project and other DetectedAI initiatives, connect with us on X!
 
-![image](https://github.com/user-attachments/assets/fe1ad92e-cd61-469e-aed5-0dc2845cf68a)
+![Adsız](https://github.com/user-attachments/assets/7a1452b1-cd92-4a2f-ace4-b7236c004f89)
+
