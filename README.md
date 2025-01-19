@@ -1,10 +1,10 @@
-🎯 Project Goals
+# 🎯 Project Goals
 The primary goal of this project is to leverage advanced machine learning (ML) and structure-from-motion (SFM) techniques to estimate vehicle speeds accurately from various types of imagery. This work aims to provide valuable tools and methodologies applicable to fields like traffic monitoring, autonomous vehicle systems, and improving road safety.
 
-📸 Dataset
+# 📸 Dataset
 This repository does not include a publicly available dataset. Instead, the methods are designed for use with custom datasets. If you possess specific imagery or are interested in applying these techniques, we encourage you to get in touch for collaboration opportunities.
 
-📋 System Requirements
+# 📋 System Requirements
 To execute the code in this repository, ensure the following prerequisites are met:
 
 Python 3.7+: Install Python and set up the required libraries using pip:
@@ -29,14 +29,10 @@ The following MATLAB toolboxes are required:
 
 Statistics and Machine Learning Toolbox
 Signal Processing Toolbox
-🏃 Execution
-This repository includes multiple techniques for estimating vehicle speeds. For guidance on using these methods or further information, feel free to contact us.
 
-📚 Acknowledgment
+# 📚 Acknowledgment
 If this work contributes to your research or projects, please consider citing it using the provided DOI.
 
-🤝 Contributions
-We warmly welcome community contributions! Whether it’s fixing bugs, adding new features, or enhancing documentation, your input is highly appreciated. Refer to our [Contributing Guide] to get started. We’d also love to hear about your experiences with DetectedAI products. Consider filling out our [Survey]. A big thank you 🙌 to all contributors!
 
 📬 Get in Touch
 For bug reports, feature suggestions, and collaborations, or to discuss this project and other DetectedAI initiatives, connect with us on X!
