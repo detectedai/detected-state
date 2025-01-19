@@ -10,8 +10,7 @@ To execute the code in this repository, ensure the following prerequisites are m
 Python 3.7+: Install Python and set up the required libraries using pip:
 
 bash
-Kopyala
-Düzenle
+
 pip3 install -U -r requirements.txt
 Key Python packages listed in requirements.txt include:
 
@@ -24,8 +23,7 @@ bokeh (optional, for visualizations)
 Additionally, if using MATLAB, include this line in your code:
 
 matlab
-Kopyala
-Düzenle
+
 addpath(genpath('/functions-matlab'))
 The following MATLAB toolboxes are required:
 
